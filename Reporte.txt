@@ -1,0 +1,10 @@
+Creacion de un nuevo proyecto React: 
+- crea una carpeta donde se desee crear la Aplicacion
+- ingresa el siguiente comando npm init
+- ingresa el siguiente comando npx create-react-app [nombre_de_tu_Proyecto]
+
+Introduccion a React: 
+-React nos ofrece algo llamado Componentes, estos nos permite manejar html con javascript, 
+añadiendo funcionalidad, optimizacion y reutilizacion de codigo, a esto se le conoce JSX.
+
+-
